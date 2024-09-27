@@ -1,0 +1,3 @@
+include ':libReflect'
+include ':app'
+rootProject.name = "EasyReflect"
